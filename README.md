@@ -6,7 +6,7 @@
 
 This playable post is [public domain (CC0)](http://creativecommons.org/publicdomain/zero/1.0).
 
-This repository also has some baked in merge conflicts for practice. 
+This repository also has some baked in merge conflicts for practice. And a little extra.
 
 Please feel free to use this in your classrooms,
 make video/picture/text adaptations,
@@ -18,3 +18,5 @@ Show us how you're using and remixing Parable of the Polygons!
 Tweet us at
 [@vihartvihart](https://twitter.com/vihartvihart) and
 [@ncasenmare](https://twitter.com/ncasenmare).
+
+Added an unrelated change.
